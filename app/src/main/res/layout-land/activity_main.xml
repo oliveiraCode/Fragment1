@@ -9,7 +9,14 @@
     <fragment
         android:id="@+id/fragment"
         android:name="com.lfoliveira.lasalle.fragmentnewexample1.team"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.lfoliveira.lasalle.fragmentnewexample1.info"
+        android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_weight="1" />
 </LinearLayout>
