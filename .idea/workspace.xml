@@ -26,6 +26,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
           <provider editor-type-id="android-designer2">
             <state />
@@ -80,10 +81,17 @@
           </provider>
           <provider selected="true" editor-type-id="text-editor">
 >>>>>>> parent of 9d698a7... Project done
+=======
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+>>>>>>> parent of 9d698a7... Project done
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+<<<<<<< HEAD
 <<<<<<< HEAD
           </provider>
         </entry>
@@ -97,11 +105,16 @@
           </provider>
 >>>>>>> parent of 9d698a7... Project done
 =======
+=======
+>>>>>>> parent of 9d698a7... Project done
           </provider>
         </entry>
       </file>
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lfoliveira/lasalle/fragmentnewexample1/MainActivity.java">
+<<<<<<< HEAD
+>>>>>>> parent of 9d698a7... Project done
+=======
 >>>>>>> parent of 9d698a7... Project done
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="462">
@@ -114,6 +127,7 @@
         </entry>
       </file>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lfoliveira/lasalle/fragmentnewexample1/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -124,6 +138,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> parent of 9d698a7... Project done
 =======
 >>>>>>> parent of 9d698a7... Project done
     </leaf>
@@ -2162,6 +2178,7 @@
   </component>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
   <component name="IdeDocumentHistory">
@@ -2176,6 +2193,8 @@
     </option>
   </component>
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 9d698a7... Project done
 =======
 >>>>>>> parent of 9d698a7... Project done
 =======
@@ -2204,6 +2223,7 @@
       <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -2326,6 +2346,10 @@
         </subPane>
       </pane>
 >>>>>>> Stashed changes
+=======
+      <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+>>>>>>> parent of 9d698a7... Project done
 =======
       <pane id="ProjectPane" />
       <pane id="AndroidView" />
@@ -2541,6 +2565,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2549,6 +2574,10 @@
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11812866" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 >>>>>>> Stashed changes
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 9d698a7... Project done
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2579,6 +2608,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< Updated upstream
@@ -2622,6 +2652,8 @@
       </provider>
     </entry>
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 9d698a7... Project done
 =======
 >>>>>>> parent of 9d698a7... Project done
 =======
